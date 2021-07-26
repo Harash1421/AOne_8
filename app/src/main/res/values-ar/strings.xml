@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تغيير اللغة</string>
+    <string name="Hello">مرحبا بك في تطبيق تغيير اللفة</string>
+    <string name="Change">تغيير اللغة</string>
+</resources>
